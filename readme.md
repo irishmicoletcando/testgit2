@@ -8,3 +8,5 @@ git commit -m "message"
 
 to list status
 git status
+
+this is the shortcut
