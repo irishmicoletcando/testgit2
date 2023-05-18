@@ -9,4 +9,9 @@ git commit -m "message"
 to list status
 git status
 
-this is the shortcut
+to add remote origin
+git remote add origin https://github.com/irishmicoletcando/testgit2.git
+
+to push committed files from local to remote
+git push -u origin <branchname>
+
